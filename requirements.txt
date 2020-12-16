@@ -1,0 +1,7 @@
+The required versions of the libraries:
+1) numpy 1.18.5
+2) pandas 1.1.5
+3) matplotlib 3.2.2
+4) scipy 1.4.1
+5) sklearn 0.22.2.post1
+6) plotly 4.4.1
